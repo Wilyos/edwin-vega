@@ -26,7 +26,7 @@ const vcardData = `
 BEGIN:VCARD
 VERSION:3.0
 FN:Edwin Vega
-N:Vega;Ruiz;;;
+N:Vega;Edwin;;;
 TEL;TYPE=work:+573017973455
 EMAIL:disenador@luma.com.co
 END:VCARD
